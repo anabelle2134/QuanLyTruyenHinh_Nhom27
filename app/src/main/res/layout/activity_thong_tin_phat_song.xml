@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatThemTTPS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="15dp"
+        android:backgroundTint="#00BCD4"
+        android:clickable="true"
+        app:srcCompat="@android:drawable/ic_menu_add" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!--        <EditText-->
+        <!--            android:id="@+id/TimKiem"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="43dp"-->
+        <!--            android:background="#ACE6E8"-->
+        <!--            android:drawableLeft="@drawable/ic_search"-->
+        <!--            android:hint="Tìm Kiếm"-->
+        <!--            android:inputType="text" />-->
+
+        <ListView
+            android:id="@+id/lvTTPS"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="50dp"/>
+
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

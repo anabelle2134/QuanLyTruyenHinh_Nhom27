@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".inbaocao">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:background="@color/teal_200"
+        android:gravity="center"
+        android:text="In báo cáo "
+        android:textColor="#090909"
+        android:textSize="30sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/border"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill_vertical"
+            android:background="@drawable/border"
+            android:text="Chọn mục in"
+            android:backgroundTint="@android:color/holo_orange_light"
+            android:textColor="@color/black"
+            android:textSize="25dp" />
+
+        <CheckBox
+            android:id="@+id/cbtl"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:checked="false"
+            android:onClick="onCheckboxClicked"
+            android:text="In theo thông tin thể loại"
+            android:textSize="25dp" />
+
+        <Spinner
+            android:id="@+id/spn_categorytl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@android:color/transparent"/>
+
+        <CheckBox
+            android:id="@+id/cbct"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:checked="false"
+            android:onClick="onCheckboxClicked"
+            android:text="In theo thông tin chương trình"
+            android:textSize="25dp" />
+        <Spinner
+            android:id="@+id/spn_categoryct"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@android:color/transparent"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:backgroundTint="@color/RippleEffect"
+            android:text="Back" />
+
+        <Button
+            android:id="@+id/print"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:backgroundTint="@color/RippleEffect"
+            android:text="Print" />
+
+    </LinearLayout>
+</LinearLayout>

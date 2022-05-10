@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/QuanLiTruyenHinh/app/src/main/res/drawable/custom_button.xml" value="0.1075" />
+        <entry key="..\:/Android/QuanLiTruyenHinh/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Android/QuanLiTruyenHinh/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/LT android/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/activity_baocao_chuong_trinh.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/drawable/edit_vector.xml" value="0.109" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/drawable/spinner_style.xml" value="0.1125" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/activity_baocao_chuong_trinh.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/activity_baocaotheloai.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/activity_bientapvien.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/activity_danh_muc_chuong_trinh.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/activity_inbaocao.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/activity_splash.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/activity_theloai.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/activity_thong_tin_phat_song.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/dialog_them_thongtinphatsong.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/dialog_themdanhmuc.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/inbaocao.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/item_bientapvien.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/item_category.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/item_selected.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/layout/timkiem.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/Nhom27-QuanLyTruyenHinh-main/app/src/main/res/menu/timkiem_chuongtrinh.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
